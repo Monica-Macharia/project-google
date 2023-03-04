@@ -1,0 +1,45 @@
+body{
+    font-size: 18px;
+    background-color: rgb(239, 239, 243);
+}
+.menu{
+    float:right;
+    padding: 20px 30px;
+    margin: 10px 5px;
+}
+.user{
+    background-color: blue;
+    border-radius: 4px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+
+}
+.gmail:hover{
+    text-decoration: underline;
+}
+.footer-menu{
+    background-color: black;
+    height: 70px;
+    
+}
+.footer-menu li{
+    bottom: 0;
+    padding: 30px 20px;
+    margin: 50px 20px;
+   
+}
+ul{
+    list-style: none;
+}
+.right{
+    float:right;
+}
+.left{
+    float: left;
+}
+.country{
+    border-bottom: 1px solid black;
+    
+}
