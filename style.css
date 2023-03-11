@@ -10,11 +10,7 @@ body{
     padding: 20px 30px;
     margin: 10px 5px;
 }
-.user{
-    background-color: blue;
-    border-radius: 4px;
-    text-align: center;
-}
+
 a{
     text-decoration: none;
 
@@ -55,4 +51,11 @@ ul{
     
     align-items:flex-end;
     justify-content: space-evenly;
+}
+.user{
+    background-color: blue;
+    border-radius: 4px;
+    text-align: center;
+    color: white
+    text-decoration: none;
 }
