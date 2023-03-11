@@ -116,17 +116,23 @@ footer{
 }
 div.footer-menu{
 }
+div.foot-links{
+  
+    border-top: 2px solid black;
+}
 div.foot-links ul li{
     display:inline-flex;
     padding-right: 30px;
     text-decoration: none;
     color:black;
+    
 }
 div.foot-links ul li a{
     
     text-decoration: none;
     color:black;
 }
+
 a.carbon{
     justify-content: center;
     
