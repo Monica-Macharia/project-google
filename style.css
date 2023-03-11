@@ -41,10 +41,17 @@ ul{
     border-bottom: 1px solid black;
     
 } */
-div.menu {
+header{
     display: flex;
-    float: right;
-    margin: 0;
+    /* align-items: flex-end;
+    justify-content:center; */
+    background-color: red;
+    width: 100%;
+    align-items: flex-end;
+}
+div.menu {
+    /* float: right;
+    margin: 0; */
     
 }
 .menu a{
