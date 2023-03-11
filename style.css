@@ -90,6 +90,8 @@ div.options{
 button.google-search{
    background-color: whitesmoke;
    border: 0px;
+   border-style: none;
+   margin-bottom: 10px;
    /* height: 10px;
    width: 10px; */
    /* padding: 60px; */
@@ -100,4 +102,23 @@ button.google-search a{
     color: black;
     text-decoration: none;
     
+    
+}
+p.language{
+    text-align: center;
+}
+div.location{
+    background-color: grey;
+    margin-top: 20%;
+}
+footer{
+    background-color: grey;
+}
+div.footer-menu{
+}
+div.foot-links ul li{
+    display:inline;
+    padding-right: 30px;
+    text-decoration: none;
+
 }
