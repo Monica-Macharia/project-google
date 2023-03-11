@@ -62,7 +62,7 @@ div.menu {
 }
 img.google{
 /* margin-top: 15%; */
-margin: 15% auto 1% auto;
+margin: 15% auto 1% 37%;
     display: flex;
     align-items: flex-end;
     justify-content: center;  
@@ -109,7 +109,7 @@ p.language{
 }
 div.location{
     
-    margin-top: 17.6%;
+    margin-top:11.5%;
 }
 p.country{
     padding-top: 10px;
@@ -145,4 +145,19 @@ a.carbon{
 }
 a.right{
     float: left;
+}
+
+span.material-symbols-outlined{
+    float: left;
+    padding-top: 5px;
+    padding-left: 10px;
+   
+}
+
+span.material-symbols-rounded{
+    float: right;
+     padding-left: 5px;
+    padding-right: 10px;
+    padding-top: 5px;
+   
 }
