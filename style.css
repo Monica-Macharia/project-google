@@ -124,7 +124,7 @@ p.language{
 }
 div.location{
     
-    margin-top:11.5%;
+    margin-top: 10%;
 }
 p.country{
     padding-top: 10px;
@@ -135,8 +135,7 @@ footer{
     width: 100%;
     height: 100%;
 }
-div.footer-menu{
-}
+
 div.foot-links{
   
     border-top: 2px solid grey;
