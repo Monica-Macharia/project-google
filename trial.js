@@ -5,3 +5,6 @@ console.log(newarr)
 
 let arr3 = [...new Set(arr1, ...arr2)]
 console.log(arr3)
+
+let array=[4, 3, 5, 6, 7,6]
+console.log(array.includes(6))
