@@ -6,4 +6,5 @@
       ]
 
     pets.map((pet) => {console.log(pet) 
-     console.log(pet.name)})
+     console.log(pet.name)
+    console.log(pet.image)})
